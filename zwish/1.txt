@@ -1,5 +1,5 @@
 第一次使用git
-
+//这里我改了
 1、第一步，用命令git add告诉Git，把文件添加到仓库：
 
 $ git add readme.txt
